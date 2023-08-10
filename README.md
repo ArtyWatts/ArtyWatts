@@ -61,5 +61,5 @@
 <h5> 📞 Connect with me </h5>
 
 <img align="left"  Gmail width="50px" src="https://d33wubrfki0l68.cloudfront.net/2b9f2646c25fe72981030c42a97e2df993b6e50c/b96aa/files/gmail.svg" /> Business: pukalljanek@gmail.com <br>
-Casual mails: artywatts@gmail.com
+Casual mails: artymuswatts@gmail.com
 
