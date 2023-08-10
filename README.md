@@ -1,14 +1,14 @@
-<h1>Hello, I'm Janek! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hello, I'm Janek! <br/> Cybersecurity Professional</a>
 
 <h2>👨🏼‍💻 Cybersecurity Projects:</h2>
 
 - <b>Active Directory Practice</b>
   - 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion
+  - JWipe (Disk Wiping Utility)
+  - Active Directory Bulk User Creation
+  - FIM (File Integrity Monitor)
   
 -  🐍 Python
 
