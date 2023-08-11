@@ -93,8 +93,8 @@
   <br> <p> 🎮 Gaming</p>
 
   I am a passionate and long time gamer. From 2014 to 2018 I was a progamer in Starcraft 2 reaching rank 1 on the european server for some time, and even took part in bootcamps in Seoul, Southkorea.
-  I 've also reached the highest ranks in Counter Strike GO and League of Legends. Some people would probably consider this a waste of time, but i am actually very proud of what I achieved and all 
-  the experiences I made along the way. All this took a lot of effort, sweat and tears, but when I set out to do something, I commit to it with all my heart. 
+  I 've also reached the highest ranks in Counter Strike GO and League of Legends. Some people would probably consider this a waste of time, but I am actually very proud of what I achieved and all 
+  the experiences I made along the way. All this took a lot of effort, sweat and tears, but when I set out to do something, I commit to it with all my heart. While I game less and less nowadays, I still use it to unwind after a long day of working/learning. 
 
   
   <p> 🧑🏼‍🎨 Painting</p>
