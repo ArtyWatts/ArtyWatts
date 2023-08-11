@@ -29,6 +29,9 @@
 
 - [TryHackMe Web Fundamentals](https://github.com/ArtyWatts/ArtyWatts/assets/141881183/f6babd15-b7db-4fb8-b028-7907fb1210a5)
 
+- [Sololearn Introduction to HTML](https://github.com/ArtyWatts/ArtyWatts/assets/141881183/e1f3e723-6545-44eb-9dcc-4f99096a0167)
+
+
 
 
 
