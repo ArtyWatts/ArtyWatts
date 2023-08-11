@@ -6,10 +6,9 @@
  - <b>[Security Audit Example](https://github.com/ArtyWatts/Security-Audit-Example)</b>
  - <b>[File Integrity Monitor]()</b> (soon)
  - <b>[Active Directoy & Powershellscript]()</b> (soon)
+ - <b>[🐍 Python-Practice](https://github.com/ArtyWatts/Python-Practice)</b>
  
   
--  🐍 Python
-
 <br>
 <h3>Certifications</h3>
 
