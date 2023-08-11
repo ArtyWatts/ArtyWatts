@@ -21,9 +21,19 @@
 
 - [Google Coursera Networks and Network Security](https://github.com/ArtyWatts/ArtyWatts/files/12307798/Google.Coursera.Networks.and.Network.Security.pdf)
 
-- 
+- [TryHackMe Jr. Penetration Tester](https://github.com/ArtyWatts/ArtyWatts/assets/141881183/0d0df931-01c2-4af3-aef5-4a82fafa90a1)
 
--
+- [TryHackMe Intro to Cybersecurity](https://github.com/ArtyWatts/ArtyWatts/assets/141881183/f5125f2b-82cb-48b2-9a6c-54c47e42286b)
+
+- [TryHackMe PreSecurity](https://github.com/ArtyWatts/ArtyWatts/assets/141881183/ec9c57b9-3d9c-4bd3-b6a8-ec34b4cf3fcf)
+
+- [TryHackMe Web Fundamentals](https://github.com/ArtyWatts/ArtyWatts/assets/141881183/f6babd15-b7db-4fb8-b028-7907fb1210a5)
+
+
+
+
+
+
 
 
 <h2>Applications, languages & tools I have had exposure to</h2>
