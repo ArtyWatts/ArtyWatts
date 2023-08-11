@@ -77,12 +77,18 @@
   
   <p> 🧑🏼‍🎨 Painting</p>
 
-  I love digital and nondigital painting. Here is a painting I made a while back using Photoshop and a graphic-tablet.  
+  I love digital and nondigital painting. Here is two painting I made a while back using Photoshop and a graphic-tablet.  
 
 <img src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/e681350c-1967-42fd-9acd-add607d54eda" 
      width="750" 
      height="550"
  />
+
+<img src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/1b4a2620-e2d9-4c02-b059-219df4b0d91c" 
+     width="750" 
+     height="550"
+ />
+
 
 <h2> 📞 Connect with me: </h2>
 
