@@ -1,4 +1,4 @@
-<h1>Hello, I'm Janek! <br/> Cybersecurity Professional</a>
+<h1>Hello, I'm Janek! <br/> Cybersecurity Enthusiast</a>
 
 <h2>👨🏼‍💻 Cybersecurity Projects:</h2>
 
