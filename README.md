@@ -54,7 +54,7 @@
 -  Windows (Active Directory, Registry)
 -  Vulnerability Management (Nessus)
 -  Security Frameworks & Compliance (NIST CSF, CIA Triad, Incident Response Playbooks, Security Audits, PCI-DSS, GDPR)
--  unrelated to cybersecurity: Photoshop, Adobe Premier, Cubase, Unreal Engine
+-  unrelated to cybersecurity: Photoshop, Adobe Premier, Cubase, Unreal Engine, Blender, Substance painter, Zbrush
 
 <br> 
 <br>
