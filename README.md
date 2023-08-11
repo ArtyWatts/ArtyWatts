@@ -3,9 +3,10 @@
 <h2>👨🏼‍💻 Cybersecurity Projects:</h2>
 
  - <b>[Nessus Vulnerability Scanning](https://github.com/ArtyWatts/Nessus-Vulnerability-Scanning)</b>
+ - <b>[Security Audit Example](https://github.com/ArtyWatts/Security-Audit-Example)</b>
  - <b>[File Integrity Monitor]()</b>
  - <b>[Active Directoy & Powershellscript]()</b>
- - <b>[Security Audit Example](https://github.com/ArtyWatts/Security-Audit-Example)</b>
+ 
   
 -  🐍 Python
 
