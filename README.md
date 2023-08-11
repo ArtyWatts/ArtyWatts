@@ -86,6 +86,6 @@
 
 <h2> 📞 Connect with me: </h2>
 
-<img align="left"  Gmail width="50px" src="https://d33wubrfki0l68.cloudfront.net/2b9f2646c25fe72981030c42a97e2df993b6e50c/b96aa/files/gmail.svg" /> Business: janek.pukall@gmail.com <br>
+<img align="left"  Gmail width="50px" src="https://d33wubrfki0l68.cloudfront.net/2b9f2646c25fe72981030c42a97e2df993b6e50c/b96aa/files/gmail.svg"/> Business: janek.pukall@gmail.com <br>
 Casual: artymuswatts@gmail.com
 
