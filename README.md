@@ -4,13 +4,13 @@
 
  - <b>[Nessus Vulnerability Scanning](https://github.com/ArtyWatts/Nessus-Vulnerability-Scanning)</b>
  - <b>[Security Audit Example](https://github.com/ArtyWatts/Security-Audit-Example)</b>
- - <b>[File Integrity Monitor]()</b>
- - <b>[Active Directoy & Powershellscript]()</b>
+ - <b>[File Integrity Monitor]()</b> soon
+ - <b>[Active Directoy & Powershellscript]()</b> soon
  
   
 -  🐍 Python
 
-
+<br>
 <h3>Certifications</h3>
 
 - [Google Coursera Assets, Threats and Vulnerabilities](https://github.com/ArtyWatts/ArtyWatts/files/12307806/Google.Coursera.Assets.Threats.and.Vulnerabilities.pdf)
@@ -20,6 +20,7 @@
 
 
 - [Google Coursera Networks and Network Security](https://github.com/ArtyWatts/ArtyWatts/files/12307798/Google.Coursera.Networks.and.Network.Security.pdf)
+
 
 - [TryHackMe Jr. Penetration Tester](https://github.com/ArtyWatts/ArtyWatts/assets/141881183/0d0df931-01c2-4af3-aef5-4a82fafa90a1)
 
@@ -38,11 +39,11 @@
 
 
 
-
+<br>
 <h2>Applications, languages & tools I have had exposure to</h2>
 
 -  🐍 Python, SQL, HTML, CSS, Java
--  Linux CLI, Kali Linux, Bash, Wordlists,Proxychains etc.)
+-  Linux CLI, Kali Linux, Bash, Wordlists,Proxychains,Hydra, ExploitDB etc.)
 -  VMs, Oracle Virtual Box
 -  SIEM tools (Splunk, Chronicle)
 -  IDS/IPS tools (Suricata)
@@ -57,9 +58,16 @@
 
 <br> 
 <br>
-<br>
 
-<h4>🕹AboutMe</h4>
+<h2>👨🏼‍💻 Future plans:</h2>
+
+- Comptia Security+
+- Bachelor of Cybersecurity at WGU
+- getting hands on experience in Cyber via an internship or a job
+
+
+<br>
+<h2>About Me:</h2>
 
 - Why Cybersecurity? <br>
 
