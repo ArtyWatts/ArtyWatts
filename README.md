@@ -2,13 +2,8 @@
 
 <h2>👨🏼‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Practice</b>
-  - 
-- <b>PowerShell</b>
-  - Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion
-  - JWipe (Disk Wiping Utility)
-  - Active Directory Bulk User Creation
-  - FIM (File Integrity Monitor)
+ - <b>[Nessus Vulnerability Scanning](https://github.com/ArtyWatts/Nessus-Vulnerability-Scanning)</b>
+
   
 -  🐍 Python
 
