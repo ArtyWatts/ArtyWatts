@@ -4,6 +4,7 @@
 
  - <b>[Nessus Vulnerability Scanning](https://github.com/ArtyWatts/Nessus-Vulnerability-Scanning)</b>
  - <b>[File Integrity Monitor]()</b>
+ - <b>[Active Directoy & Powershellscript]()</b>
   
 -  🐍 Python
 
