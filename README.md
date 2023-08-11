@@ -62,7 +62,7 @@
 <h2>👨🏼‍💻 Future plans:</h2>
 
 - Comptia Security+
-- Bachelor of Cybersecurity at [WGU](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html#_)
+- Bachelor of Cybersecurity and Information Assurance at [WGU](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html#_)
 - getting hands on experience in Cyber via an internship or a job
 
 
