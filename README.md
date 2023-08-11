@@ -39,7 +39,7 @@
 <h2>Applications, languages & tools I have had exposure to</h2>
 
 -  🐍 Python, SQL, HTML, CSS, Java
--  Kali Linux, Linux CLI, Bash
+-  Linux CLI, Kali Linux, Bash, Wordlists,Proxychains etc.)
 -  VMs, Oracle Virtual Box
 -  SIEM tools (Splunk, Chronicle)
 -  IDS/IPS tools (Suricata)
