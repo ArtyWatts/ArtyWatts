@@ -26,7 +26,26 @@
 -
 
 
+<h2>Applications, languages & tools I have had exposure to</h2>
 
+-  🐍 Python, SQL, HTML, CSS, Java
+-  Kali Linux, Linux CLI, Linux
+-  VMs, Oracle Virtual Box
+-  SIEM tools (Splunk, Chronicle)
+-  IDS/IPS tools (Suricata)
+-  Packetsniffers (tcpdump, Wireshark)
+-  Brute Force Attacks (JohntheRipper)
+-  Cryptography
+-  Webapplication Penetration Testing (OWASP, Burpsuite, nmap, wpscan etc.)
+-  Metasploit
+-  Windows (Active Directory, Registry) <br>
+ 
+-  unrelated to cybersecurity: Photoshop, Adobe Premier, Cubase 
+
+<br> 
+<br>
+<br>
+<br>
 
 <h4>🕹AboutMe</h4>
 
