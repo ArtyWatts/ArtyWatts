@@ -64,7 +64,9 @@
   I also go to the gym frequently to stay fit, healthy and enhance my volleyball skills.
 
 <p> 🎹 Music</p>
-  Music has also played a vital role in my life. I am able to play the piano (14 years of experience) and guitar (4 years of experience). I was a freelancing moviecomposer for several years. 
+  Music has also played a vital role in my life. I am able to play the piano (14 years of experience) and guitar (4 years of experience). I was a freelancing moviecomposer for several years.
+
+  
 
   <br> <p> 🎮 Gaming</p>
 
@@ -72,10 +74,18 @@
   I 've also reached the highest ranks in Counter Strike GO and League of Legends. Some people would probably consider this a waste of time, but i am actually very proud of what I achieved and all 
   the experiences I made along the way. All this took a lot of effort, sweat and tears, but when I set out to do something, I commit to it with all my heart. 
 
+  
+  <p> 🧑🏼‍🎨 Painting</p>
 
+  I love digital and nondigital painting. Here is a painting I made a while back using Photoshop and a graphic-tablet.  
 
-<h5><b>📞 Connect with me</b></h5>
+<img src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/e681350c-1967-42fd-9acd-add607d54eda" 
+     width="750" 
+     height="550"
+ />
 
-<img align="left"  Gmail width="50px" src="https://d33wubrfki0l68.cloudfront.net/2b9f2646c25fe72981030c42a97e2df993b6e50c/b96aa/files/gmail.svg" /> Business: pukalljanek@gmail.com <br>
+<h2> 📞 Connect with me: </h2>
+
+<img align="left"  Gmail width="50px" src="https://d33wubrfki0l68.cloudfront.net/2b9f2646c25fe72981030c42a97e2df993b6e50c/b96aa/files/gmail.svg" /> Business: janek.pukall@gmail.com <br>
 Casual: artymuswatts@gmail.com
 
