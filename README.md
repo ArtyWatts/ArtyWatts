@@ -60,7 +60,7 @@
 <br> 
 <br>
 
-<h2>👨🏼‍💻 Future plans:</h2>
+<h2> 🎯 Future plans:</h2>
 
 
 - Comptia Security+ certificate
