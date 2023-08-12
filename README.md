@@ -56,7 +56,7 @@
 -  Security Frameworks & Compliance (NIST CSF, CIA Triad, Incident Response Playbooks, Security Audits, PCI-DSS, GDPR)
 -  Bugbounties on Hackerone
 -  VPNs, TOR browser
--  Google docs, sheets for visual representation of Data
+-  Google Docs, Sheets for visual representation of data
 -  unrelated to cybersecurity: Photoshop, Adobe Premier, Cubase, Unreal Engine, Blender, Substance painter, Zbrush
 
 <br> 
