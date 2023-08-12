@@ -66,7 +66,7 @@
 - Comptia Security+ certificate
 - getting hands-on experience in Cyber via an internship or a job
 - Splunk Search Expert certificate on Coursera
-- eJPT Certificate
+- eJPT certificate
 - Blue Team level 1 certificate
 - Bachelor of Cybersecurity and Information Assurance at [WGU](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html#_)
 
