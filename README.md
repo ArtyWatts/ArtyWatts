@@ -13,13 +13,13 @@
 <br>
 <h3>Certifications</h3>
 
-- [Google Coursera Assets, Threats and Vulnerabilities](https://github.com/ArtyWatts/ArtyWatts/files/12307806/Google.Coursera.Assets.Threats.and.Vulnerabilities.pdf)
+- [Google Cybersecurity Certificate](https://github.com/ArtyWatts/ArtyWatts/files/12328438/Google.Cybersecurity.Certificate.pdf)
+
+  <img align="center" width="100px" src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/24e02828-32b9-4c01-8932-a1233fc0b3cd"/>
 
 
-- [Google Coursera Detection and Response](https://github.com/ArtyWatts/ArtyWatts/files/12307807/Google.Coursera.Detection.and.Response.pdf)
 
 
-- [Google Coursera Networks and Network Security](https://github.com/ArtyWatts/ArtyWatts/files/12307798/Google.Coursera.Networks.and.Network.Security.pdf)
 
 
 - [TryHackMe Jr. Penetration Tester](https://github.com/ArtyWatts/ArtyWatts/assets/141881183/0d0df931-01c2-4af3-aef5-4a82fafa90a1)
