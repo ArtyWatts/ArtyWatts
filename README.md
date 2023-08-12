@@ -13,11 +13,12 @@
 <br>
 <h3>Certifications</h3>
 
-- [Google Cybersecurity Certificate](https://github.com/ArtyWatts/ArtyWatts/files/12328438/Google.Cybersecurity.Certificate.pdf)
+- [Google Cybersecurity Certificate](https://coursera.org/share/f2f8eac6d18f377fe9e38308a3f17bc6)
 
   <img align="center" width="100px" src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/24e02828-32b9-4c01-8932-a1233fc0b3cd"/>
 
-
+https://coursera.org/share/f2f8eac6d18f377fe9e38308a3f17bc6
+https://github.com/ArtyWatts/ArtyWatts/files/12328438/Google.Cybersecurity.Certificate.pdf
 
 
 
