@@ -53,10 +53,11 @@
 -  Metasploit
 -  Windows (Active Directory, Registry)
 -  Vulnerability Management (Nessus)
--  Security Frameworks & Compliance (NIST CSF, CIA Triad, Incident Response Playbooks, Security Audits, PCI-DSS, GDPR)
+-  Security Frameworks, Controls & Compliance (NIST CSF, CIA Triad, Incident Response Playbooks, Security Audits, PCI-DSS, GDPR)
 -  Bugbounties on Hackerone
 -  VPNs, TOR browser
 -  Google Docs, Sheets for visual representation of data
+-  Incident response & security hardening
 -  unrelated to cybersecurity: Photoshop, Adobe Premier, Cubase, Unreal Engine, Blender, Substance painter, Zbrush
 
 <br> 
