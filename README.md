@@ -86,24 +86,24 @@
  I place high value on protecting the privacy of data and like to customize and optimize relevant procedures, preferably in a team environment. A second or third opinion is always helpful to ensure 
  that all security goals are met, and any possible angle is covered.
  I believe that the most advantageous aspect of the field of cybersecurity is that I will never run out of things to learn. Practicing new tasks, applications and techniques is always exciting to me. 
- Thankfully there will always be innovation.
+ Thankfully, there will always be innovation.
 
 <br>
 - Other hobbies:
 
 <br><p> 🏐 Volleyball<p/>
-  I have been playing volleyball for 15 years now and play in the 3. Bundesliga, which is relativly high. The sport starts to become professional at the 2. Bundesliga level in Germany.
+  I have been playing volleyball for 15 years now and play in the 3. Bundesliga, which is relatively high. The sport starts to become professional at the 2. Bundesliga level in Germany.
   I also go to the gym frequently to stay fit, healthy and enhance my volleyball skills.
 
 <br><p> 🎹 Music</p>
-  Music has also played a vital role in my life. I am able to play the piano (14 years of experience) and guitar (4 years of experience). I was a freelancing moviecomposer for several years.
+  Music has also played a vital role in my life. I am able to play the piano (14 years of experience) and guitar (4 years of experience). I was a freelancing movie composer for several years.
 
   
 
   <br><p> 🎮 Gaming</p>
 
-  I am a passionate and long time gamer. From 2014 to 2018 I was a progamer in Starcraft 2 reaching rank 1 on the european server for some time, and even took part in bootcamps in Seoul, Southkorea.
-  I 've also reached the highest ranks in Counter Strike GO and League of Legends. Some people would probably consider this a waste of time, but I am actually very proud of what I achieved and all 
+  I am a passionate and long time gamer. From 2014 to 2018 I was a progamer in Starcraft 2 reaching rank 1 on the European server for some time, and even took part in boot camps in Seoul, Southkorea.
+  I've also reached the highest ranks in Counter Strike GO and League of Legends. Some people would probably consider this a waste of time, but I am actually very proud of what I achieved and all 
   the experiences I made along the way. All this took a lot of effort, sweat and tears, but when I set out to do something, I commit to it with all my heart. While I game less and less nowadays, I still use it to unwind after a long day of working/learning. 
 
   
