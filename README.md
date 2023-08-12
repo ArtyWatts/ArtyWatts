@@ -62,10 +62,14 @@
 
 <h2>👨🏼‍💻 Future plans:</h2>
 
-- Comptia Security+ Certificate
-- Splunk Search Expert Certificate on Coursera
+
+- Comptia Security+ certificate
+- getting hands-on experience in Cyber via an internship or a job
+- Splunk Search Expert certificate on Coursera
+- eJPT Certificate
+- Blue Team level 1 certificate
 - Bachelor of Cybersecurity and Information Assurance at [WGU](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html#_)
-- getting hands on experience in Cyber via an internship or a job
+
   
 
 
