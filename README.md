@@ -17,10 +17,6 @@
 
   <img align="center" width="100px" src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/24e02828-32b9-4c01-8932-a1233fc0b3cd"/>
 
-
-
-
-
 - [TryHackMe Jr. Penetration Tester](https://github.com/ArtyWatts/ArtyWatts/assets/141881183/0d0df931-01c2-4af3-aef5-4a82fafa90a1)
 
 - [TryHackMe Intro to Cybersecurity](https://github.com/ArtyWatts/ArtyWatts/assets/141881183/f5125f2b-82cb-48b2-9a6c-54c47e42286b)
