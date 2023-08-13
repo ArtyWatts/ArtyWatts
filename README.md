@@ -46,7 +46,7 @@
 -  🐍 Python, SQL, HTML, CSS, Java
 -  Linux CLI, Kali Linux, Bash, Wordlists,Proxychains,Hydra, ExploitDB etc.)
 -  VMs, Oracle Virtual Box
--  SIEM tools (Splunk, Chronicle)
+-  SIEM tools, searches and visualiziation with Splunk, (Chronicle)
 -  IDS/IPS tools (Suricata)
 -  Packetsniffers (tcpdump, Wireshark)
 -  Cryptography
