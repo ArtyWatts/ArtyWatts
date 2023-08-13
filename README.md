@@ -51,7 +51,7 @@
 -  Packetsniffers (tcpdump, Wireshark)
 -  Cryptography
 -  Webapplication Penetration Testing (OWASP, Burpsuite, nmap, wpscan,JohntheRipper etc.)
--  Metasploit
+-  Metasploit, Meterpreter
 -  Windows (Active Directory, Registry)
 -  Vulnerability Management (Nessus)
 -  Security Frameworks, Controls & Compliance (NIST CSF, CIA Triad, Incident Response Playbooks, Security Audits, PCI-DSS, GDPR)
