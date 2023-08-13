@@ -89,7 +89,7 @@
  I place high value on protecting the privacy of data and like to customize and optimize relevant procedures, preferably in a team environment. A second or third opinion is always helpful to ensure 
  that all security goals are met, and any possible angle is covered.
  I believe that the most advantageous aspect of the field of cybersecurity is that I will never run out of things to learn. Practicing new tasks, applications and techniques is always exciting to me. 
- Thankfully, there will always be innovation.
+ Thankfully, there will always be innovation and thus, new things to learn.
 
 <br>
 - Other hobbies:
