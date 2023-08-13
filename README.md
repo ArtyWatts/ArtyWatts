@@ -35,7 +35,7 @@
 
 
 <br>
-<h2>Applications, languages & tools I have had exposure to</h2>
+<h2>Applications, languages & tools I have had exposure to:</h2>
 
 -  🐍 Python, SQL, HTML, CSS, Java
 -  Linux CLI, Kali Linux, Bash, Wordlists,Proxychains,Hydra, ExploitDB etc.)
