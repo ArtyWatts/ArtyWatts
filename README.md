@@ -7,6 +7,8 @@
  - <b>[🐍 Python Practice](https://github.com/ArtyWatts/Python-Practice)</b>
  - <b>[File Integrity Monitor]()</b> (soon)
  - <b>[Active Directoy & Powershellscript]()</b> (soon)
+ - <b>[83 completed rooms on TryHackme.com](https://tryhackme.com/p/yyyyy)</b> <img align="center" width="160px" src="https://tryhackme-badges.s3.amazonaws.com/yyyyy.png" alt="TryHackMe">
+
  
  
   
@@ -26,6 +28,8 @@
 - [TryHackMe Web Fundamentals](https://github.com/ArtyWatts/ArtyWatts/assets/141881183/f6babd15-b7db-4fb8-b028-7907fb1210a5)
 
 - [Sololearn Introduction to HTML](https://github.com/ArtyWatts/ArtyWatts/assets/141881183/e1f3e723-6545-44eb-9dcc-4f99096a0167)
+
+     
 
 
 
@@ -54,6 +58,7 @@
 -  Google Docs, Sheets for visual representation of data
 -  Incident response & security hardening
 -  unrelated to cybersecurity: Photoshop, Adobe Premier, Cubase, Unreal Engine, Blender, Substance painter, Zbrush
+  
 
 <br> 
 <br>
