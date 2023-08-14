@@ -97,7 +97,7 @@
 - Other hobbies:
 
 <br><p> 🏐 Volleyball<p/>
-  I have been playing volleyball for 15 years now and play in the 3. Bundesliga, which is relatively high. The sport starts to become professional at the 2. Bundesliga level in Germany.
+  I have been playing volleyball for 15 years now and play in the Regionalliga, which is 1 League below the 3.Bundesliga. The sport starts to become professional at the 2. Bundesliga level in Germany.
   I also go to the gym frequently to stay fit, healthy and enhance my volleyball skills.
 
 <br><p> 🎹 Music</p>
