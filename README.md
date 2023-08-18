@@ -19,7 +19,7 @@
 <br>
 <h3>Certifications</h3>
 
-- currently doing my eJPTv2
+- currently doing my eJPT 
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/f2f8eac6d18f377fe9e38308a3f17bc6) / [(PDF)](https://github.com/ArtyWatts/ArtyWatts/files/12328438/Google.Cybersecurity.Certificate.pdf)
 
@@ -77,7 +77,9 @@
 - Comptia Security+ certificate
 - getting hands-on experience in Cyber via an internship or a job
 - Splunk Search Expert certificate on Coursera
-- eJPTv2 certificate
+- Splunk Core Certified Power User
+- eJPT (eLearnSecurity Jr. Penetration Tester) certificate 
+- ICCA (INE Certified Cloud Associate) certificate
 - Blue Team level 1 certificate
 - Bachelor of Cybersecurity and Information Assurance at [WGU](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html#_)
 
