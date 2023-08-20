@@ -55,6 +55,7 @@
 -  SIEM tools, SPL, searches and visualiziation with Splunk, (Chronicle)
 -  IDS/IPS tools (Suricata)
 -  Packetsniffers (tcpdump, Wireshark)
+-  Passive and Active Reconaissance of systems and services
 -  Cryptography
 -  Webapplication Penetration Testing (OWASP, Burpsuite, nmap, wpscan,JohntheRipper etc.)
 -  Metasploit, Meterpreter
