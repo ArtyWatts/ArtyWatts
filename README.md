@@ -60,7 +60,7 @@
 -  Webapplication Penetration Testing (OWASP, Burpsuite, nmap, wpscan,JohntheRipper etc.)
 -  Metasploit, Meterpreter
 -  Windows (Active Directory, Registry)
--  Vulnerability Management (Nessus)
+-  Vulnerability Management (Nessus,SCAP Compliance Checker)
 -  Security Frameworks, Controls & Compliance (NIST CSF, CIA Triad, Incident Response Playbooks, Security Audits, PCI-DSS, GDPR, ISO/IEC 27000)
 -  Bugbounties on Hackerone
 -  VPNs, TOR browser
