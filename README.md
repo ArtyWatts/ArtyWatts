@@ -61,7 +61,7 @@
 -  Metasploit, Meterpreter
 -  Windows (Active Directory, Registry)
 -  Vulnerability Management (Nessus)
--  Security Frameworks, Controls & Compliance (NIST CSF, CIA Triad, Incident Response Playbooks, Security Audits, PCI-DSS, GDPR)
+-  Security Frameworks, Controls & Compliance (NIST CSF, CIA Triad, Incident Response Playbooks, Security Audits, PCI-DSS, GDPR, ISO/IEC 27000)
 -  Bugbounties on Hackerone
 -  VPNs, TOR browser
 -  Google Docs, Sheets for visual representation of data
