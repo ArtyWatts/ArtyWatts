@@ -59,6 +59,7 @@
 -  Cryptography
 -  Webapplication Penetration Testing (OWASP, Burpsuite, nmap, wpscan,JohntheRipper etc.)
 -  Metasploit, Meterpreter
+-  Host- & Networkbased exploitation of Windows and Linux
 -  Windows (Active Directory, Registry)
 -  Vulnerability Management (Nessus,SCAP Compliance Checker)
 -  Security Frameworks, Controls & Compliance (NIST CSF, CIA Triad, Incident Response Playbooks, Security Audits, PCI-DSS, GDPR, ISO/IEC 27000)
