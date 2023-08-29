@@ -25,6 +25,10 @@
 
   <img align="center" width="100px" src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/24e02828-32b9-4c01-8932-a1233fc0b3cd"/>
 
+- [ICCA INE Certified Cloud Associate](https://my.ine.com/certificate/53cf559e-7636-43de-ad00-8168925ed2ca)
+
+  <img align="center" width="90px" height="110"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/ed493a22-3c40-4e1a-a2bf-426f391b8245"/>
+
 - [Splunk Search Expert 101](https://coursera.org/share/6c7bf75eeda6d90d7300e768b2745b98)
 
 - [TryHackMe Jr. Penetration Tester](https://github.com/ArtyWatts/ArtyWatts/assets/141881183/0d0df931-01c2-4af3-aef5-4a82fafa90a1)
@@ -38,6 +42,7 @@
 - [Sololearn Introduction to HTML](https://github.com/ArtyWatts/ArtyWatts/assets/141881183/e1f3e723-6545-44eb-9dcc-4f99096a0167)
 
      
+
 
 
 
