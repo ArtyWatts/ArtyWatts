@@ -19,7 +19,11 @@
 <br>
 <h3>Certifications</h3>
 
-- currently doing my eJPT 
+
+
+- [eJPT certified Junior Penetration Tester](https://my.ine.com/certificate/f8494925-8d46-41b2-84e9-42073c0713ea)
+
+  <img align="center" width="90px" height="110"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/d98a3405-1e05-4e7e-b5d8-ad5b684bd37b"/>
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/f2f8eac6d18f377fe9e38308a3f17bc6) / [(PDF)](https://github.com/ArtyWatts/ArtyWatts/files/12328438/Google.Cybersecurity.Certificate.pdf)
 
