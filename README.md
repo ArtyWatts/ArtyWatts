@@ -87,9 +87,9 @@
 
 
 - Comptia Security+ certificate
+- OSCP
 - getting hands-on experience in Cyber via an internship or a job
 - Splunk Core Certified Power User
-- eJPT (eLearnSecurity Jr. Penetration Tester) certificate 
 - Blue Team level 1 certificate
 - Bachelor of Cybersecurity and Information Assurance at [WGU](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html#_)
 
