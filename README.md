@@ -21,7 +21,7 @@
 
 
 
-- [eJPT certified Junior Penetration Tester](https://my.ine.com/certificate/f8494925-8d46-41b2-84e9-42073c0713ea)
+- [eJPT Certified Junior Penetration Tester](https://my.ine.com/certificate/f8494925-8d46-41b2-84e9-42073c0713ea)
 
   <img align="center" width="90px" height="110"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/d98a3405-1e05-4e7e-b5d8-ad5b684bd37b"/>
 
