@@ -19,7 +19,7 @@
 <br>
 <h3>Certifications</h3>
 
-
+- currently studying for CCNA and Security+
 
 - [eJPT Certified Junior Penetration Tester](https://my.ine.com/certificate/f8494925-8d46-41b2-84e9-42073c0713ea)
 
@@ -87,6 +87,7 @@
 
 
 - Comptia Security+ certificate
+- CCNA
 - OSCP
 - getting hands-on experience in Cyber via an internship or a job
 - Splunk Core Certified Power User
