@@ -88,6 +88,8 @@
 
 - Comptia Security+ certificate
 - CCNA
+- eCPPT
+- PNPT
 - OSCP
 - getting hands-on experience in Cyber via an internship or a job
 - Splunk Core Certified Power User
