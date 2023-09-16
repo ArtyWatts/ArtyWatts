@@ -25,14 +25,13 @@
 
   <img align="center" width="90px" height="110"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/d98a3405-1e05-4e7e-b5d8-ad5b684bd37b"/>
 
-- [Google Cybersecurity Certificate](https://coursera.org/share/f2f8eac6d18f377fe9e38308a3f17bc6) / [(PDF)](https://github.com/ArtyWatts/ArtyWatts/files/12328438/Google.Cybersecurity.Certificate.pdf)
-
-  <img align="center" width="110px" height="110" src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/24e02828-32b9-4c01-8932-a1233fc0b3cd"/>
-
 - [ICCA INE Certified Cloud Associate](https://my.ine.com/certificate/53cf559e-7636-43de-ad00-8168925ed2ca)
 
   <img align="center" width="90px" height="110"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/ed493a22-3c40-4e1a-a2bf-426f391b8245"/>
+  
+- [Google Cybersecurity Certificate](https://coursera.org/share/f2f8eac6d18f377fe9e38308a3f17bc6)
 
+  <img align="center" width="115px" height="110" src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/24e02828-32b9-4c01-8932-a1233fc0b3cd"/>
 
 - [Google IT Support Certificate](https://coursera.org/share/39a0764e732cf9b4253eef6adb05de93)
 
