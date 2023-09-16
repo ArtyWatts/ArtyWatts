@@ -27,11 +27,17 @@
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/f2f8eac6d18f377fe9e38308a3f17bc6) / [(PDF)](https://github.com/ArtyWatts/ArtyWatts/files/12328438/Google.Cybersecurity.Certificate.pdf)
 
-  <img align="center" width="110px" src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/24e02828-32b9-4c01-8932-a1233fc0b3cd"/>
+  <img align="center" width="110px" height="110" src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/24e02828-32b9-4c01-8932-a1233fc0b3cd"/>
 
 - [ICCA INE Certified Cloud Associate](https://my.ine.com/certificate/53cf559e-7636-43de-ad00-8168925ed2ca)
 
   <img align="center" width="90px" height="110"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/ed493a22-3c40-4e1a-a2bf-426f391b8245"/>
+
+
+- [Google IT Support Certificate](https://coursera.org/share/39a0764e732cf9b4253eef6adb05de93)
+
+  <img align="center" width="95px" height="110"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/61d5b3f1-ed46-4c95-8cf5-9a1c0d2bffc1"/>
+
 
 - [Splunk Search Expert 101](https://coursera.org/share/6c7bf75eeda6d90d7300e768b2745b98)
 
