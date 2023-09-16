@@ -21,11 +21,11 @@
 
 - currently studying for CCNA and Security+
 
-- [eJPT Certified Junior Penetration Tester](https://my.ine.com/certificate/f8494925-8d46-41b2-84e9-42073c0713ea)
+- [eJPT Certified Junior Penetration Tester](https://certs.ine.com/36c41f92-22f0-46a2-8961-bb445c8061d2#gs.58tk3p)
 
   <img align="center" width="90px" height="110"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/d98a3405-1e05-4e7e-b5d8-ad5b684bd37b"/>
 
-- [ICCA INE Certified Cloud Associate](https://my.ine.com/certificate/53cf559e-7636-43de-ad00-8168925ed2ca)
+- [ICCA INE Certified Cloud Associate](https://certs.ine.com/d466b686-e31c-4f3c-bf6d-55a79b875a1b#gs.58tmlu)
 
   <img align="center" width="90px" height="110"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/ed493a22-3c40-4e1a-a2bf-426f391b8245"/>
   
