@@ -31,7 +31,7 @@
   
 - [Google Cybersecurity Certificate](https://coursera.org/share/f2f8eac6d18f377fe9e38308a3f17bc6)
 
-  <img align="center" width="115px" height="110" src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/24e02828-32b9-4c01-8932-a1233fc0b3cd"/>
+  <img align="center" width="118px" height="110" src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/24e02828-32b9-4c01-8932-a1233fc0b3cd"/>
 
 - [Google IT Support Certificate](https://coursera.org/share/39a0764e732cf9b4253eef6adb05de93)
 
