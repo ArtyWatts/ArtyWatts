@@ -29,15 +29,15 @@
 
   <img align="center" width="90px" height="110px"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/ed493a22-3c40-4e1a-a2bf-426f391b8245"/>
   
-- [Google Cybersecurity Certificate](https://coursera.org/share/f2f8eac6d18f377fe9e38308a3f17bc6)
-
+- [Google Cybersecurity Certificate](https://coursera.org/share/f2f8eac6d18f377fe9e38308a3f17bc6) 
+ 
   <img align="center" width="118px" height="110px" src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/24e02828-32b9-4c01-8932-a1233fc0b3cd"/>
 
 - [Google IT Support Certificate](https://coursera.org/share/39a0764e732cf9b4253eef6adb05de93)
 
   <img align="center" width="95px" height="110px"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/61d5b3f1-ed46-4c95-8cf5-9a1c0d2bffc1"/>
 
-- [Cisco Cybersecurity Operations Fundamentals](https://coursera.org/share/c3a6f9427992b83810548f20e7be03b5)
+- [Cisco Cybersecurity Operations Fundamentals Certificate](https://coursera.org/share/c3a6f9427992b83810548f20e7be03b5)
 
   <img align="center" width="110px" height="120px"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/1647dc52-30ca-45ff-afbf-cf9ce02a6259"/>  
 
