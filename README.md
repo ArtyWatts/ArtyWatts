@@ -39,7 +39,7 @@
 
 - [Cisco Cybersecurity Operations Fundamentals Certificate](https://coursera.org/share/c3a6f9427992b83810548f20e7be03b5)
 
-  <img align="center" width="110px" height="120px"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/1647dc52-30ca-45ff-afbf-cf9ce02a6259"/>  
+  <img align="center" width="105px" height="120px"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/1647dc52-30ca-45ff-afbf-cf9ce02a6259"/>  
 
 - [Splunk Search Expert 101](https://coursera.org/share/6c7bf75eeda6d90d7300e768b2745b98)
 
