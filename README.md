@@ -23,20 +23,23 @@
 
 - [eJPT Certified Junior Penetration Tester](https://certs.ine.com/36c41f92-22f0-46a2-8961-bb445c8061d2#gs.58tk3p)
 
-  <img align="center" width="90px" height="110"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/d98a3405-1e05-4e7e-b5d8-ad5b684bd37b"/>
+  <img align="center" width="90px" height="110px"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/d98a3405-1e05-4e7e-b5d8-ad5b684bd37b"/>
 
 - [ICCA INE Certified Cloud Associate](https://certs.ine.com/d466b686-e31c-4f3c-bf6d-55a79b875a1b#gs.58tmlu)
 
-  <img align="center" width="90px" height="110"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/ed493a22-3c40-4e1a-a2bf-426f391b8245"/>
+  <img align="center" width="90px" height="110px"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/ed493a22-3c40-4e1a-a2bf-426f391b8245"/>
   
 - [Google Cybersecurity Certificate](https://coursera.org/share/f2f8eac6d18f377fe9e38308a3f17bc6)
 
-  <img align="center" width="118px" height="110" src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/24e02828-32b9-4c01-8932-a1233fc0b3cd"/>
+  <img align="center" width="118px" height="110px" src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/24e02828-32b9-4c01-8932-a1233fc0b3cd"/>
 
 - [Google IT Support Certificate](https://coursera.org/share/39a0764e732cf9b4253eef6adb05de93)
 
-  <img align="center" width="95px" height="110"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/61d5b3f1-ed46-4c95-8cf5-9a1c0d2bffc1"/>
+  <img align="center" width="95px" height="110px"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/61d5b3f1-ed46-4c95-8cf5-9a1c0d2bffc1"/>
 
+- [Cisco Cybersecurity Operations Fundamentals](https://coursera.org/share/c3a6f9427992b83810548f20e7be03b5)
+
+  <img align="center" width="110px" height="120px"  src="https://github.com/ArtyWatts/ArtyWatts/assets/141881183/1647dc52-30ca-45ff-afbf-cf9ce02a6259"/>  
 
 - [Splunk Search Expert 101](https://coursera.org/share/6c7bf75eeda6d90d7300e768b2745b98)
 
