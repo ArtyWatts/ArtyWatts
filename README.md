@@ -19,7 +19,9 @@
 <br>
 <h3>Certifications</h3>
 
-- currently studying for CCNA and Security+
+- currently doing the Practical Network Penetration Tester certification (PNPT) from TCM Security
+ 
+- will soon take the Comptia Security+ exam
 
 - [eJPT Certified Junior Penetration Tester](https://certs.ine.com/36c41f92-22f0-46a2-8961-bb445c8061d2#gs.58tk3p)
 
