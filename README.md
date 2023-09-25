@@ -130,7 +130,7 @@
   I also go to the gym frequently to stay fit, healthy and enhance my volleyball skills.
 
 <br><p> 🎹 Music</p>
-  Music has also played a vital role in my life. I am able to play the piano (14 years of experience) and guitar (4 years of experience). I was a freelancing movie composer for several years.
+  Music has also played a vital role in my life. I am able to play the piano (14 years of experience) and guitar (4 years of experience). I have been composing music for movies for several years.
 
   
 
