@@ -4,7 +4,7 @@
 
 (click on them to get more info)
 
- - <b>[CTFs (Capture the flags)](https://github.com/ArtyWatts/CTFs/tree/main)</b>
+ - <b>[CTF Example (Capture the flag)](https://github.com/ArtyWatts/CTFs/tree/main)</b>
  - <b>[Nessus Vulnerability Scanning](https://github.com/ArtyWatts/Nessus-Vulnerability-Scanning)</b> 
  - <b>[Security Audit Example](https://github.com/ArtyWatts/Security-Audit-Example)</b>
  - <b>[🐍 Python Practice](https://github.com/ArtyWatts/Python-Practice)</b>
