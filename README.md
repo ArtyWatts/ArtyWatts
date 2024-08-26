@@ -1,9 +1,10 @@
-<h1>Hello, I'm Janek! <br/> Cybersecurity Enthusiast</a>
+<h1>Hello, I'm Janek! <br/> Cybersecurity Enthusiast/Ethical Hacker</a>
 
 <h2>👨🏼‍💻 Cybersecurity Projects:</h2>
 
 (click on them to get more info)
 
+ - <b>[CTFs (Capture the flags)](https://github.com/ArtyWatts/CTFs/tree/main)</b>
  - <b>[Nessus Vulnerability Scanning](https://github.com/ArtyWatts/Nessus-Vulnerability-Scanning)</b> 
  - <b>[Security Audit Example](https://github.com/ArtyWatts/Security-Audit-Example)</b>
  - <b>[🐍 Python Practice](https://github.com/ArtyWatts/Python-Practice)</b>
