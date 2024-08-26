@@ -70,24 +70,27 @@
 <h2>Applications, languages & tools I have had exposure to:</h2>
 
 -  🐍 Python, SQL, HTML, CSS, Java
--  Linux CLI, Kali Linux, Bash, Wordlists,Proxychains,Hydra, ExploitDB etc.)
+-  Kali Linux
+-  Internal Pentest, Active Directory
+-  External Pentest
+-  Physical Pentest
+-  Webapplication Pentest
+-  Phishing Campaigns
+-  OSINT (Open-Source Intelligence)
+-  Basic Knowledge of the Cloud (AWS,GCP,Azure)
 -  VMs, Oracle Virtual Box
 -  SIEM tools, SPL, searches and visualiziation with Splunk, (Chronicle)
--  IDS/IPS tools (Suricata)
+-  IDS/IPS tools
 -  Packetsniffers (tcpdump, Wireshark)
--  Passive and Active Reconnaissance of systems and services
 -  Cryptography
--  Webapplication Penetration Testing (OWASP, Burpsuite, nmap, wpscan,JohntheRipper etc.)
--  Metasploit, Meterpreter
--  Host- & Networkbased exploitation of Windows and Linux
--  Windows (Active Directory, Registry)
 -  Vulnerability Management (Nessus,SCAP Compliance Checker)
 -  Security Frameworks, Controls & Compliance (NIST CSF, CIA Triad, Incident Response Playbooks, Security Audits, PCI-DSS, GDPR, ISO/IEC 27000)
--  Bugbounties on Hackerone
--  VPNs, TOR browser
--  Basic Knowledge of the Cloud (AWS,GCP,Azure)
+-  Redundancy- and Emergencyplanning
+-  Security Hardening
+-  Bugbounties
+-  TOR
 -  Google Docs, Sheets for visual representation of data
--  Incident response & security hardening
+-  IT-Support Experience
 -  unrelated to cybersecurity: Photoshop, Adobe Premier, Cubase, Unreal Engine, Blender, Substance painter, Zbrush
   
 
