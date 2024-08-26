@@ -12,7 +12,7 @@
  - <b>[Simple Password Generator in Python](https://github.com/ArtyWatts/SimplePasswordGenerator/tree/main)</b>
  - <b>[Password Manager in Python]()</b> (soon)
  - <b>[File Integrity Monitor]()</b> (soon) 
- - <b>[83 completed rooms on TryHackMe.com](https://tryhackme.com/p/yyyyy)</b> <img align="center" width="160px" src="https://tryhackme-badges.s3.amazonaws.com/yyyyy.png" alt="TryHackMe">
+ - <b>[84 completed rooms on TryHackMe.com](https://tryhackme.com/p/yyyyy)</b> <img align="center" width="160px" src="https://tryhackme-badges.s3.amazonaws.com/yyyyy.png" alt="TryHackMe">
 
  
  
