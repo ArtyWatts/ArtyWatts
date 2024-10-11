@@ -72,7 +72,7 @@
 -  🐍 Python, SQL, HTML, CSS, Java
 -  Kali Linux
 -  Internal Pentest, Active Directory
--  External Pentest
+-  External Pentest, C2 Frameworks
 -  Physical Pentest
 -  Webapplication Pentest
 -  Phishing Campaigns
