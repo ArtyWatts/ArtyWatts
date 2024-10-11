@@ -22,7 +22,7 @@
 
 - currently doing the Practical Network Penetration Tester certification (PNPT) from TCM Security
  
-- going for CPTS and OSCP after that
+- going for CPTS,CBBH and OSCP after that
 
 - [eJPT Certified Junior Penetration Tester](https://certs.ine.com/36c41f92-22f0-46a2-8961-bb445c8061d2#gs.58tk3p)
 
@@ -99,14 +99,11 @@
 
 <h2> 🎯 Future plans:</h2>
 
-
-- Comptia Security+ certificate
-- CCNA
+- CPTS
 - eCPPT
 - PNPT
 - OSCP
-- getting hands-on experience in Cyber via an internship or a job
-- Splunk Core Certified Power User
+- CBBH
 - Blue Team level 1 certificate
 - Bachelor of Cybersecurity and Information Assurance at [WGU](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html#_)
 
