@@ -20,9 +20,14 @@
 <br>
 <h3>Certifications</h3>
 
-- currently doing the Practical Network Penetration Tester certification (PNPT) from TCM Security
+- currently doing CRTP
  
 - going for CPTS,CBBH and OSCP after that
+
+- [PNPT Practical Network Penetration Tester](https://certified.tcm-sec.com/2d47c69c-eb2b-47e5-9ed2-b11d6127bfc6#acc.JyxXDAha)
+
+  <img align="center" width="110px" height="110px"  src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/132775757"/>
+
 
 - [eJPT Certified Junior Penetration Tester](https://certs.ine.com/36c41f92-22f0-46a2-8961-bb445c8061d2#gs.58tk3p)
 
