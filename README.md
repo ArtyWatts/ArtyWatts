@@ -20,9 +20,13 @@
 <br>
 <h3>Certifications</h3>
 
-- currently doing CRTP
+- currently doing CRTO
  
 - going for CPTS,CBBH and OSCP after that
+
+- - [PNPT Practical Network Penetration Tester](https://www.credential.net/148995e4-68f3-46c9-8adf-708125680802)
+
+  <img align="center" width="110px" height="110px"  src="![1587637904149](https://github.com/user-attachments/assets/7c24540c-429a-4d79-aab3-c34979e1f25c)"/>
 
 - [PNPT Practical Network Penetration Tester](https://certified.tcm-sec.com/2d47c69c-eb2b-47e5-9ed2-b11d6127bfc6#acc.JyxXDAha)
 
