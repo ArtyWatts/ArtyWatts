@@ -108,9 +108,9 @@
 
 <h2> 🎯 Future plans:</h2>
 
+- CRTO
 - CPTS
 - eCPPT
-- PNPT
 - OSCP
 - CBBH
 - Blue Team level 1 certificate
