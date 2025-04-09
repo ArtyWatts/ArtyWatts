@@ -20,9 +20,9 @@
 <br>
 <h3>Certifications</h3>
 
-- currently doing CRTO
+- currently doing CRTO & Sektor7 Malware Dev, Maldevacademy & CRTL 
  
-- going for CPTS,CBBH and OSCP after that
+- will go for CPTS,CBBH and OSCP at some point
 
 - [CRTP Certified Red Team Professional](https://www.credential.net/148995e4-68f3-46c9-8adf-708125680802)
 
