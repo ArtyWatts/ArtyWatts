@@ -24,7 +24,7 @@
  
 - going for CPTS,CBBH and OSCP after that
 
-- - [CRTP Certified Red Team Professional](https://www.credential.net/148995e4-68f3-46c9-8adf-708125680802)
+- [CRTP Certified Red Team Professional](https://www.credential.net/148995e4-68f3-46c9-8adf-708125680802)
 
   <img align="center" width="110px" height="110px"  src="https://imgs.search.brave.com/wiiPYdli0_42XkIQGqQC3l007kMBA5ni5aIb8WYnodI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0M0/RTEyQVFHVzBfel9w/Vjl5VlEvYXJ0aWNs/ZS1jb3Zlcl9pbWFn/ZS1zaHJpbmtfNjAw/XzIwMDAvMC8xNTg3/NjM3OTA0MTQ5P2U9/MjE0NzQ4MzY0NyZ2/PWJldGEmdD1DLVBw/NXZ4RzNvVFllX0Jq/VElETmxKTTl4aVc5/YmlCLVMzbjkwS3B3/Mndz"/>
 
