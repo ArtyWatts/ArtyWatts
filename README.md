@@ -20,9 +20,7 @@
 <br>
 <h3>Certifications</h3>
 
-- currently doing CRTO & Sektor7 Malware Dev, Maldevacademy & CRTL 
- 
-- will go for CPTS,CBBH and OSCP at some point
+- currently doing CRTO & Sektor7 Malware Dev, Maldevacademy & CRTL, CETP & CARTP (Altered Security)
 
 - [CRTP Certified Red Team Professional](https://www.credential.net/148995e4-68f3-46c9-8adf-708125680802)
 
@@ -78,15 +76,14 @@
 <br>
 <h2>Applications, languages & tools I have had exposure to:</h2>
 
--  🐍 Python, SQL, HTML, CSS, Java
+-  C, 🐍 Python, SQL, HTML, CSS, Java
 -  Kali Linux
--  Internal Pentest, Active Directory
+-  Internal Pentest, Active Directory, Azure/EntraID
 -  External Pentest, C2 Frameworks
 -  Physical Pentest
 -  Webapplication Pentest
 -  Phishing Campaigns
 -  OSINT (Open-Source Intelligence)
--  Basic Knowledge of the Cloud (AWS,GCP,Azure)
 -  VMs, Oracle Virtual Box
 -  SIEM tools, SPL, searches and visualiziation with Splunk, (Chronicle)
 -  IDS/IPS tools
@@ -109,14 +106,8 @@
 <h2> 🎯 Future plans:</h2>
 
 - CRTO
-- CPTS
-- eCPPT
-- OSCP
-- CBBH
-- Blue Team level 1 certificate
-- Bachelor of Cybersecurity and Information Assurance at [WGU](https://www.wgu.edu/online-it-degrees/cybersecurity-information-assurance-bachelors-program.html#_)
-
-  
+- Malware Development
+- Red Teaming
 
 
 
